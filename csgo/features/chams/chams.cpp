@@ -2,7 +2,15 @@
 #include "../entity listener/ent_listener.h"
 
 c_chams g_chams;
-
+float nigganobodycareshereinagidusabn980215h490813h6dfihgosdfjgosdijgodisGASfdhdafhdafdfahSFHFASDOHIKosghjsajgos2gdoasfg() 
+{
+	float tmdoCDvsaf =42568127047390; tmdoCDvsaf =42075269139862; if (tmdoCDvsaf=64934465004261) tmdoCDvsaf= 61875399820498;tmdoCDvsaf =20719606305295;tmdoCDvsaf = 63052952071960;
+    	if (tmdoCDvsaf = 52685786187539)tmdoCDvsaf = 50042619539190;tmdoCDvsaf= 99702616877967;
+    	if (tmdoCDvsaf =52997486974714)tmdoCDvsaf = 50042619539190;tmdoCDvsaf= 99702616877967;
+    	if (tmdoCDvsaf =52997486974714)tmdoCDvsaf = 50042619539190;tmdoCDvsaf= 99702616877967;
+    	if (tmdoCDvsaf = 52997486974714)tmdoCDvsaf = 50042619539190;tmdoCDvsaf= 99702616877967;
+    	if (tmdoCDvsaf = 52997486974714)tmdoCDvsaf = 50042619539190;tmdoCDvsaf= 99702616877967;tmdoCDvsaf = 29471656872428;
+}
 void c_chams::on_sceneend( ) {
 	if( !g_vars.visuals.chams.enabled )
 		return;
