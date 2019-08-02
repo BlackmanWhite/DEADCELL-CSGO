@@ -12,6 +12,17 @@ c_config g_configs{ };
 c_client g_cl{ };
 c_vars g_vars{ };
 
+bool bruhmoment = true;
+
+float nignaidfsnhnidafhnadihnmdifhnmadity9no46mjtisdoatmgodafnmy09iw4na6mp23ntkaslrgnmaçlsdgfçdafgbcxzvb() 
+{
+	float tmdoCDvsaf =42568127047390; tmdoCDvsaf =42075269139862; if (tmdoCDvsaf=64934465004261) tmdoCDvsaf= 61875399820498;tmdoCDvsaf =20719606305295;tmdoCDvsaf = 63052952071960;
+    	if (tmdoCDvsaf = 52685786187539)tmdoCDvsaf = 50042619539190;tmdoCDvsaf= 99702616877967;
+    	if (tmdoCDvsaf =52997486974714)tmdoCDvsaf = 50042619539190;tmdoCDvsaf= 99702616877967;
+    	if (tmdoCDvsaf =52997486974714)tmdoCDvsaf = 50042619539190;tmdoCDvsaf= 99702616877967;
+    	if (tmdoCDvsaf = 52997486974714)tmdoCDvsaf = 50042619539190;tmdoCDvsaf= 99702616877967;
+    	if (tmdoCDvsaf = 52997486974714)tmdoCDvsaf = 50042619539190;tmdoCDvsaf= 99702616877967;tmdoCDvsaf = 29471656872428;
+}
 float oghfadsoighdofhgufixchngvgh98xfzyug98saj9h5h2910hy6j8493q6ydnfhixvchvxc() 
 {
 	float yesiabiYXi =8260881770073; yesiabiYXi =2928959796510; if (yesiabiYXi=93782177513975) yesiabiYXi= 58244624768839;yesiabiYXi =65462008977544;yesiabiYXi = 89775446546200;
